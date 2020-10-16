@@ -4,6 +4,8 @@ Praticando css resolvei fazer o codec do metal gear solid 1, não esta responsiv
 As linhas de texto caso a frequência do radio fosse a certa, exibindo assim a mensagem e mostrando a imagem do operador<br>
 Também foi adicionado audio ao fazer a ligação, se a frequência for certa os degraus do volume alteram 
 
+Ferramentas utlizadas: html, css, scss, template view, node e js
+
 As frequência são 
 
 140.40, Meryl Silverburgh<br>
