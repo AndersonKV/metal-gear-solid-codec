@@ -1,9 +1,10 @@
 # metal-gear-solid-codec
 
 Praticando css resolvei fazer o codec do metal gear solid 1, não esta responsivo, queria apenas deixa parecido e adicionar<br>
-as linhas de texto caso a frequência do radio fosse a certa, exibindo assim a mensagem e mostrando a imagem do operador<br>
+As linhas de texto caso a frequência do radio fosse a certa, exibindo assim a mensagem e mostrando a imagem do operador<br>
+Também foi adicionado audio ao fazer a ligação, se a frequência for certa os degraus do volume alteram 
 
-as frequência são 
+As frequência são 
 
 140.40, Meryl Silverburgh<br>
 140.55, Roy Campbell<br>
