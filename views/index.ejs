@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Metal Gear Solid - Codec</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
+    <!-- font awesome -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+      integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ"
+      crossorigin="anonymous"
+    />
+    <link rel="shortcut icon" href="" />
+  </head>
+  <body>
+    <div class="codec">
+      <div class="top-screen">
+        <div class="top-screen__left-screen">
+          <img src="char/nothing.gif" />
+        </div>
+
+        <div class="top-screen__middle-screen">
+          <span class="ptt">PTT</span>
+          <div class="top-screen__middle-screen--view">
+            <span class="left-play" id="play-left"
+              ><i class="fas fa-play"></i
+            ></span>
+            <div class="top-screen__middle-screen--dot">
+              <div class="number-code">140.58</div>
+            </div>
+            <span class="right-play" id="play-right"
+              ><i class="fas fa-play"></i
+            ></span>
+          </div>
+          <span class="text-memory">MEMORY</span>
+        </div>
+
+        <div class="top-screen__right-screen">
+          <img src="char/snake_perfil.png" />
+        </div>
+      </div>
+    </div>
+    <audio id="audio" preload="auto">
+      <source src="assets/sound/codec.mp3" type="audio/mpeg" />
+    </audio>
+    <script type="module" src="/assets/js/app.js"></script>
+  </body>
+</html>
