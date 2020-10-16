@@ -10,5 +10,6 @@ As frequência são
 140.55, Roy Campbell<br>
 140.60", Nastasha Romanenko<br>
 
-Para acessar basta clica em PTT na frequência certa
+Para acessar basta clica em PTT na frequência certa<br>
+Para instalar basta baixar os arquivos e npm install ou yarn add na pasta raiz depois yarn dev<br>
 <img src="ex.png"/>
