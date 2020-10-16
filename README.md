@@ -16,6 +16,4 @@ Para acessar basta clica em PTT na frequência certa<br>
 Para instalar basta baixar os arquivos e npm install ou yarn add na pasta raiz depois yarn dev<br>
 
 
-<video controls autoplay>
-  <source src="s.mp4" type="video/mp4">
-</video>
+<img src="s2.gif"/>
